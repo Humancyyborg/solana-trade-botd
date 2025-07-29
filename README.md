@@ -228,3 +228,8 @@ If you find this project helpful:
 ---
 
 Built using the [Solana Tracker Data API](https://www.solanatracker.io/data-api)
+
+## 💝 Support This Project
+If you find this useful, consider supporting:
+- Crypto: `53UfwcwexQXUpznebBaXj4Ythdh22AB7DekdftN9vftp`
+- GitHub Sponsors: [Sponsor Me](https://github.com/sponsors)
